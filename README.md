@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Roja
 
-<!--
-**RojaCloud/RojaCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oracle Developer → Aspiring DevOps Engineer
+Currently focusing on AWS, Terraform, Kubernetes
+Strong in Oracle EBS (P2P Cycle, AP, SQL, PL/SQL, ODI)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills & Tools
+
+* AWS (EC2, S3, IAM, VPC, CloudWatch)
+* Terraform & Ansible
+* Docker & Kubernetes
+* Oracle SQL & PL/SQL
+* Oracle Data Integrator (ODI)
+* OBIEE
+* Git & GitHub
+
+---
+
+##  Projects
+
+ Coming Soon – Building real-world DevOps projects
+
+---
+
+##  Currently Learning
+
+* Kubernetes (Advanced)
+* CI/CD (GitHub Actions, Jenkins)
+* Monitoring (CloudWatch)
+
+---
+
+##  Connect with Me
+
+* LinkedIn: www.linkedin.com/in/roja-p-84bb9b2a5
+* Email: roja060@gmail.com
+
+---
+
+⭐ *Consistently building and improving.*
