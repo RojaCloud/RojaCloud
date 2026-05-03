@@ -34,7 +34,7 @@ Strong in Oracle EBS (P2P Cycle, AP, SQL, PL/SQL, ODI)
 
 ##  Connect with Me
 
-* LinkedIn: www.linkedin.com/in/roja-p-84bb9b2a5
+* LinkedIn: www.linkedin.com/in/roja-p-cloud
 * Email: roja060@gmail.com
 
 ---
